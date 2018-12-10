@@ -13,3 +13,7 @@ Every student who plays an instrument knows how daunting it is to find students 
 ## Head and shoulder above competition
 
 What can we provide that our competitors couldn’t provide in their web-apps? How do we appeal to student musicians at Brandeis? There was only one good way to find this out: ask them! With the help of Avi’s large network of Brandeis musicians, we were able to create a channel to conduct in-depth one-on-one interviews with our customer segment. We received very encouraging feedback (we discuss this more in our MVP section), and we learned that accessibility is crucial for our service. We pulled together a combination that is sure to guzzle the atmosphere in an all-in-one, easy to use Android and iOS application. A product with helpful, customized filters, like location and musical instrument, a matching algorithm that emulates best-in-class apps like Tinder, and a creative one of a kind Instant Music Play feature that makes searching through users a breeze.
+
+## But can you make enough money?
+
+## Looking ahead
