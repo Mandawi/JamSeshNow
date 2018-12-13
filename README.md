@@ -4,7 +4,7 @@ Osamah Mandawi: A Computer Science and Business student from Brandeis University
 
 Ivonne Pena Alejo: A Music and Computer Science...
 
-Ben Shapiro: A Computer Science...
+A computer science and music major, senior at Brandeis.
 
 ## No more wasted music talents at Brandeis
 
